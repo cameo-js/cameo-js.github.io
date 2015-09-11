@@ -17,7 +17,7 @@ format: blog-index
 {% endcomment %}
 
 {% unless site.posts == empty %}
-    <div class="row">
+    <div class="row t30 b20">
         <div class="medium-6 columns">
             {% for post in site.posts limit:1 %}
             {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}

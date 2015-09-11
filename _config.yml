@@ -33,7 +33,7 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://cameo-js.github.io/assets/img/'
+urlimg: 'http://localhost:4000/assets/img/'#'http://cameo-js.github.io/assets/img/'
 
 
 # Logo size is 600x80 pixels

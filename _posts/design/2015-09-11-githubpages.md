@@ -8,10 +8,9 @@ header:
     caption: Image by Florian Klauer
     caption_url: "http://florianklauer.de/"
 image:
-    thumb:  typewriter_thumb.jpg
     homepage: homepage_typewriter.jpg
 categories:
-    - design
+    - tools
 comments: true
 show_meta: false
 ---
