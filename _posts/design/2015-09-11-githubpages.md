@@ -1,8 +1,8 @@
 ---
 layout: page
-subheadline: "Discussion"
-title: "Now with Comments!"
-teaser: "For a blog you need comments. Like all those other jekyll themes we baked in Disqus. It's easy to set, it works and makes a static jekyll blog more dynamic."
+subheadline: "블로그만들기-1"
+title: "Github Pages"
+teaser: "Github Pages를 이용해서 서버없이 페이지 만들기"
 header:
     image_fullwidth: "header_typewriter.jpg"
     caption: Image by Florian Klauer
