@@ -24,7 +24,7 @@ author: cameo
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://localhost:4000'# https://cameo-js.github.io
+url: https://cameo-js.github.io
 baseurl: ''
 
 # This URL points directly to the images directory making
@@ -33,7 +33,7 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://localhost:4000/assets/img/'#'http://cameo-js.github.io/assets/img/'
+urlimg: 'http://cameo-js.github.io/assets/img/'
 
 
 # Logo size is 600x80 pixels
